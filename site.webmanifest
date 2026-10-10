@@ -1,0 +1,17 @@
+{
+  "name": "Mama Bhanja Engineering and Fabrication Works",
+  "short_name": "Mama Bhanja Engineering and Fabrication Works",
+  "description": "Engineering, fabrication and interior solutions for modern spaces.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0b1736",
+  "icons": [
+    {
+      "src": "logo without bg.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
